@@ -1,0 +1,112 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "At the market festival, Fiona showcased 24 oranges and 13 apples at her stall. How many fruits did Fiona display in total?",
+        "options": [
+            "37",
+            "39",
+            "35",
+            "33"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q2",
+        "question": "During the festival, Alice displayed 34 paintings of flowers and then added 25 more. How many flower paintings did Alice showcase in total?",
+        "options": [
+            "57",
+            "55",
+            "59",
+            "58"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Fiona sold 46 apples to a customer at the festival and then sold 23 more apples to another customer. How many apples did Fiona sell in total?",
+        "options": [
+            "66",
+            "63",
+            "65",
+            "69"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Ben baked 32 cupcakes for the festival and then baked 15 more. How many cupcakes did Ben offer in total?",
+        "options": [
+            "47",
+            "45",
+            "49",
+            "43"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Alice had 36 paintbrushes for her artwork and bought 20 more at the festival. How many paintbrushes does Alice have now?",
+        "options": [
+            "54",
+            "56",
+            "52",
+            "58"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q6",
+        "question": "At the festival, Fiona had 57 bananas in her fruit stall and added 32 more bananas. How many bananas did Fiona have in total?",
+        "options": [
+            "87",
+            "85",
+            "89",
+            "83"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Ben sold 51 loaves of bread in the morning at the festival and sold 25 more loaves in the evening. How many loaves of bread did he sell in total?",
+        "options": [
+            "77",
+            "73",
+            "74",
+            "76"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q8",
+        "question": "Alice drew 75 stars for her art display at the festival and then added 22 more stars. How many stars did Alice draw in total?",
+        "options": [
+            "97",
+            "99",
+            "93",
+            "95"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q9",
+        "question": "Fiona had 17 watermelons at the festival and then bought 71 more from the farm. How many watermelons did Fiona have in total?",
+        "options": [
+            "86",
+            "88",
+            "84",
+            "82"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q10",
+        "question": "Ben had 83 cookies in his jar for the festival and added 15 more cookies. How many cookies were there in Ben’s jar in total?",
+        "options": [
+            "96",
+            "94",
+            "98",
+            "92"
+        ],
+        "correct": 2
+    }
+]
